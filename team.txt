@@ -2,9 +2,9 @@ Equipo de Desarrollo
 
 Integrantes:
 1. Hector Rosas - Frontend
-2. Pendiente
+2. Alejandro - Asistente
 3. Pendiente
 
 Proyecto:
 Aplicación de perfiles del equipo
-version 2.0 - Cambios de diseño
+version 2.0 - Cambios de diseño mejoradas
