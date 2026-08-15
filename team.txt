@@ -7,3 +7,4 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
+Version: 1.1 - Nuevo diseno
