@@ -1,7 +1,7 @@
 Equipo de Desarrollo
 
 Integrantes:
-1. Hector
+1. Hector Rosas - Frontend
 2. Pendiente
 3. Pendiente
 
