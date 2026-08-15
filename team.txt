@@ -7,3 +7,4 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
+version 2.0 - Cambios de diseño
